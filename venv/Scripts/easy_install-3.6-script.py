@@ -1,4 +1,4 @@
-#!"F:\Python Examples\n code it\add two nos\venv\Scripts\python.exe"
+#!"F:\Python Examples\n code it\100prgms2\venv\Scripts\python.exe"
 # EASY-INSTALL-ENTRY-SCRIPT: 'setuptools==40.8.0','console_scripts','easy_install-3.6'
 __requires__ = 'setuptools==40.8.0'
 import re
